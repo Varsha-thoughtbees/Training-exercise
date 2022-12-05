@@ -1,0 +1,15 @@
+.icon{
+    font-size: 30px;
+    width: 20px;
+    justify-content: space-between;
+    float: right;
+}
+.navi{
+    list-style: none;
+}
+.mainimage{
+   max-width:100%;
+}
+li{
+    list-style: none;
+}
